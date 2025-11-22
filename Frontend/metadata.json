@@ -1,0 +1,7 @@
+{
+  "name": "Daan Bridge",
+  "description": "A comprehensive social impact platform connecting donors, volunteers, organizations, and beneficiaries.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
